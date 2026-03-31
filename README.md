@@ -1,5 +1,5 @@
 # Saudi Arabia Used Cars — Price Prediction Model
-**Capstone Project Module 2 | Data Science & Machine Learning**
+**Capstone Project Module 2 | AI Engineer**
 > By Muhammad Fachreza Alghifari
 
 ---
